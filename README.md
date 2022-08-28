@@ -1,2 +1,2 @@
-# masv
-MASV - Maritime Autonomous Surface Vehicle
+# asv
+ASV - Autonomous Surface Vehicle
