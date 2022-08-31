@@ -1,3 +1,2 @@
-# asv
-ASV - Autonomous Surface Vehicle
-
+# Autonomous USV
+Autonomous Unmanned Surface Vessel
